@@ -24,13 +24,4 @@ The Project Management Dashboard is designed to help project managers and stakeh
 
 - **Project Management Dashboard.pbix:** The main Power BI file containing the dashboard.
 
-## How to Use
-
-1. Download the `Project Management Dashboard.pbix` file.
-2. Open the file using Power BI Desktop.
-3. Explore the dashboard to gain insights into project performance.
-
-## Author
-
-- Rohitkumar Jagani
 
