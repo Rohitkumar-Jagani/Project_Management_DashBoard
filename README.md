@@ -1,6 +1,6 @@
 # Project_Management_DashBoard
 
-https://github.com/Rohitkumar-Jagani/Project_Management_DashBoard/blob/main/Project%20Management.png  
+https://github.com/Rohitkumar-Jagani/Project_Management_DashBoard/blob/main/Project%20Management.png
 This repository contains the Project Management Dashboard developed using Power BI. The dashboard provides real-time insights into project progress, resource allocation, and budget management.
 
 ## Overview
