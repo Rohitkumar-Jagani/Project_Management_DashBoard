@@ -1,9 +1,6 @@
 # Project_Management_DashBoard
 
 
-
-This repository contains the Project Management Dashboard developed using Power BI. The dashboard provides real-time insights into project progress, resource allocation, and budget management.
-
 ## Overview
 
 The Project Management Dashboard is designed to help project managers and stakeholders monitor and manage project performance effectively. The dashboard includes visual representations of project timelines, task completion rates, budget utilization, and resource allocation.
