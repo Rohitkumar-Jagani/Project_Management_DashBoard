@@ -1,6 +1,6 @@
 # Project_Management_DashBoard
 
-![Project Management](https://github.com/user-attachments/assets/6f0fb2bd-86ff-4f69-a8b0-202b678c0a2e)
+
 
 This repository contains the Project Management Dashboard developed using Power BI. The dashboard provides real-time insights into project progress, resource allocation, and budget management.
 
@@ -24,5 +24,8 @@ The Project Management Dashboard is designed to help project managers and stakeh
 ## File Description
 
 - **Project Management Dashboard.pbix:** The main Power BI file containing the dashboard.
+
+- ![Project management Dashboard](https://github.com/user-attachments/assets/c819e624-9d83-4908-bd62-f90cff8babb1)
+
 
 
